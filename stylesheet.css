@@ -1,0 +1,109 @@
+body {
+	background-image: url("http://arsgrafik.s3.amazonaws.com/uploads/2009/12/victorian-damask-background-texture-white.jpg");
+}
+#name{
+	font-family: Impact;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+h2 {
+	font-family: Verdana;
+	font-weight: bold;
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	text-align: left;
+	color: #acd1b2;
+}
+a:link
+{
+	font-family: Tahoma;
+	font-size: 1em;
+	text-decoration: none;
+	color: black;
+}
+a:visited{
+	font-family: Tahoma;
+	font-size: 1em;
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	font-weight: bold;
+}
+img {
+	height: 170px;
+	width: 170px;
+}
+#logo{
+	height: 285px;
+	width: 110px;
+}
+#header {
+	position: relative;
+	top: -10px;
+	background-color: black;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+div div p:hover{
+	font-weight: bold;
+}
+div div{
+	display: inline-block;
+}
+#left{
+	/*Add your CSS here!*/
+	float: left;
+	width: 45%;
+}
+
+ul{
+	font-family: Tahoma;
+	font-size: 1em;
+}
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+	padding-left: 20px;
+}
+#line{
+	color: black;
+	border-bottom: 2px solid black;
+}
+
+#right{
+	/*Add your CSS here!*/
+	float: right;
+	width: 45%;
+}
+#footer{
+	/*Add your CSS here!*/
+	clear:both;
+	bottom: -20px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	height: 75px;
+	width: 99%;
+	background-color: black;
+}
+.bold{
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	color: #ffffff;
+	text-align: center;
+}
+table{
+}
+td{
+	width:680px;
+}
+tr{
+	height: 
+}
+ul li:hover{
+	font-weight: bold;
+}
